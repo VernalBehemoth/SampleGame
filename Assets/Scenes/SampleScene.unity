@@ -428,6 +428,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetTransofrm: {fileID: 1201226192}
+  teleportMeCollider:
+  - {fileID: 315373431}
 --- !u!1 &200294903
 GameObject:
   m_ObjectHideFlags: 0
